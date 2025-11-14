@@ -41,6 +41,9 @@ Here are some projects I'm working on:
 ### [🗺️ DevOps Roadmap](https://github.com/anugurthi/devops_roadmap)
 A comprehensive guide and learning path for aspiring DevOps engineers. Covers essential tools, practices, and skills.
 
+### [🚀 AWS DevOps Roadmap](https://github.com/anugurthi/aws-devops-roadmap)
+A comprehensive guide and learning path for AWS Learners
+
 ### [🚀 CI/CD Starter Kit](https://github.com/anugurthi/cicd_starter_kit)
 Ready-to-use CI/CD pipeline templates and configurations to jumpstart your automation journey.
 
