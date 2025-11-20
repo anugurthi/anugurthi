@@ -65,35 +65,47 @@ My expertise includes **cloud cost optimization (FinOps)** and operational excel
 
 ## 💼 Professional Experience
 
-### **Lead Software Engineer** @ [Verizon Connect](https://www.verizonconnect.com/)
-_Dublin, Ireland | Nov 2019 - Present_
+### **[Verizon Connect](https://www.verizonconnect.com/)**
+`Dublin, Ireland | Nov 2019 - Present`
+
+**Lead Software Engineer**
+`2023 - Present`
 - **Team Leadership & Strategy**: Leading a high-performing DevOps team, defining technical roadmaps, and managing "Run the Business" (RTB) initiatives to ensure operational stability.
 - **Cross-Functional Collaboration**: Partnering with cross-functional teams to align infrastructure goals with product delivery timelines.
-- **Designed & Built CI/CD**: Integrated Bitbucket, Bamboo, Octopus, SonarQube, and AWS for web & mobile (iOS/Android) releases.
-- **FinOps Champion**: Authored PowerShell modules & Lambda functions (RDS scheduling, EC2 refreshes, Fargate shutdown) to achieve measurable cloud cost savings.
-- **Observability**: Implemented SLOs and monitoring using Grafana, Prometheus, and AppDynamics, significantly reducing MTTR.
-- **Automation**: Engineered custom Slack bots for troubleshooting and runbook execution.
 - **AI/ML Ops**: Implemented AI-driven pipelines and error detection for advanced features.
 
-### **Senior DevOps Engineer** @ Sunera Technologies
-_Hyderabad, India | Aug 2019 – Oct 2019_
+**Senior DevOps Engineer**
+`2022 - 2023`
+- **Architecture & Design**: Designed and architected resilient CI/CD frameworks and cloud infrastructure strategies.
+- **FinOps Champion**: Authored PowerShell modules & Lambda functions (RDS scheduling, EC2 refreshes) to achieve measurable cloud cost savings.
+- **Observability**: Implemented SLOs and monitoring using Grafana, Prometheus, and AppDynamics, significantly reducing MTTR.
+- **Mentorship**: Mentored engineers in SRE practices and AWS container orchestration.
+
+**DevOps Engineer**
+`2019 - 2022`
+- **CI/CD Implementation**: Integrated Bitbucket, Bamboo, Octopus, SonarQube, and AWS for web & mobile (iOS/Android) releases.
+- **Automation**: Engineered custom Slack bots for troubleshooting and runbook execution.
+- **Infrastructure as Code**: Managed IaC deployments for ECS services and supporting AWS infrastructure.
+
+### **Senior DevOps Engineer** @ [Sunera Technologies](https://www.linkedin.com/company/sunera-technologies/)
+`Hyderabad, India | Aug 2019 – Oct 2019`
 - **Cloud Migration**: Led on-premises to AWS migration, architecting ECS and Serverless workloads.
 - **Pipeline Automation**: Automated end-to-end CI/CD using GitLab CI and Octopus Deploy.
 
-### **Systems Engineer (Client: Radian)** @ EPAM Systems
-_Hyderabad, India | Oct 2018 – Jul 2019_
+### **Systems Engineer (Client: Radian)** @ [EPAM Systems](https://welcome.epam.in/)
+`Hyderabad, India | Oct 2018 – Jul 2019`
 - **DevSecOps**: Built secure pipelines with GitLab, Jenkins, Docker, Veracode, and 42Crunch.
 - **Microservices**: Contributed to C# REST APIs and Angular UI components.
 - **Standardization**: Conducted training sessions to standardize deployment tools and practices.
 
-### **DevOps Engineer** @ Nagayaga Infotech
-_Hyderabad, India | Oct 2017 – Jul 2018_
+### **DevOps Engineer** @ [Navayuga Infotech](https://www.linkedin.com/company/navayuga-infotech-pvt-ltd-/)
+`Hyderabad, India | Oct 2017 – Jul 2018`
 - **Full Stack**: Developed microservices in C# and Angular.
 - **Azure DevOps**: Engineered delivery pipelines across Azure VMs, Serverless Functions, and RDS.
 - **CI/CD Setup**: Established complete pipelines from scratch using TeamCity, SonarQube, and Azure DevOps.
 
-### **Software Engineer** @ Proarch IT Solutions
-_Hyderabad, India | Jan 2016 – Sep 2017_
+### **Software Engineer** @ [Proarch IT Solutions](https://www.proarch.com/)
+`Hyderabad, India | Jan 2016 – Sep 2017`
 - **Developer Experience**: Developed a custom support tool integrating Bitbucket, Jenkins, SonarQube, and Nexus.
 - **.NET Automation**: Implemented CI/CD for Windows and web applications.
 
@@ -102,7 +114,7 @@ _Hyderabad, India | Jan 2016 – Sep 2017_
 ## 🎓 Education
 
 **Bachelor of Technology – Electronics and Communication Engineering**
-*Jawaharlal Nehru Technological University, India | Graduated: 2011*
+*Jawaharlal Nehru Technological University, India | Graduated: 2015*
 
 ---
 
