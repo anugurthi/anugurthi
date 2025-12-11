@@ -141,7 +141,7 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anugurthi&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=7200" alt="Sai Kiran's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anugurthi&show_icons=true&theme=vue-dark&hide_border=true&cache_seconds=7200&v=1" alt="Sai Kiran's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anugurthi&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&cache_seconds=7200" alt="Sai Kiran's Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anugurthi&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&cache_seconds=7200&v=1" alt="Sai Kiran's Top Languages" />
 </div>
