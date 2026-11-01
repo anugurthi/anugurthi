@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sai Kiran Anugurthi</h1>
-  <h3>DevOps & SRE Leader | Cloud Architect | Automation Expert</h3>
+  <h3>DevOps Leader | Cloud Architect | Platform Engineering Leader</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/anugurthi">
@@ -10,27 +10,28 @@
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
   <p>📍 Dublin, Ireland</p>
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost‑optimized AWS platforms. Expert in CI/CD, IaC, FinOps, and AI‑enhanced observability. Passionate about mentoring teams, automating workflows, and delivering measurable business value.
+Results-driven DevOps leader with more than 10 years of experience designing, automating, and scaling secure, high-availability platforms across AWS and Azure. I specialize in CI/CD strategy, Infrastructure as Code, Kubernetes (K8s), Terraform, Azure DevOps, observability, and cost optimization. I lead engineering teams, build reliable developer platforms, improve release velocity, and enable organizations to deliver software with confidence and operational excellence.
 
 ---
 
-## 🛠️ Core Skills & Technologies
+## 🛠️ Core Skills
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Intermediate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-IaC-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-Config_Mgmt-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-### CI/CD & DevOps Tools
+### CI/CD & DevOps Tooling
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
@@ -39,7 +40,7 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 
 ### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-Orchestration-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-Charts-0F1689?style=flat-square&logo=helm&logoColor=white)
 
@@ -49,39 +50,30 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-Logging-005571?style=flat-square&logo=elastic&logoColor=white)
 ![AppDynamics](https://img.shields.io/badge/AppDynamics-APM-4E4B9E?style=flat-square&logo=appdynamics&logoColor=white)
 
-### Programming & Scripting
+### Programming & Automation
 ![Python](https://img.shields.io/badge/Python-Strong-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Strong-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Security (DevSecOps)
+### Security & Quality
 ![SonarQube](https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-Security-000000?style=flat-square&logo=owasp&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 <details>
 <summary><b>Verizon Connect</b> – Dublin, Ireland (Nov 2019 – Present)</summary>
 
 <br>
 
-**Lead Software Engineer** (2023‑Present)
-- 🚀 Defined the DevOps roadmap, scaling CI/CD pipelines to support **+30% release frequency**.
-- 🤖 Built AI‑driven monitoring that cut incident MTTR by **45%**.
-- 🌐 Led a high‑performing team of 12 engineers, driving cross‑functional collaboration.
-
-**Senior DevOps Engineer** (2022‑2023)
-- 💰 Implemented FinOps scripts saving **≈ $120 K/yr** in AWS spend.
-- ⏱️ Designed IaC with Terraform/CloudFormation, reducing provisioning time from **2 hrs → 10 min**.
-- 📈 Established SLOs and observability dashboards (Grafana, Prometheus) improving service reliability.
-
-**DevOps Engineer** (2019‑2022)
-- 🔧 Integrated Bitbucket, Bamboo, Octopus & SonarQube for end‑to‑end releases across web & mobile.
-- 🤝 Created Slack bots for automated run‑book execution, cutting manual ops effort by **≈ 20 hrs/mo**.
-- 📦 Managed IaC deployments for ECS services and supporting AWS infrastructure.
+**Lead Software Engineer / DevOps Leader**
+- Built and scaled CI/CD pipelines to improve release frequency and delivery reliability.
+- Designed cloud-native infrastructure using AWS, Kubernetes (K8s), and Terraform.
+- Led platform engineering initiatives with Azure DevOps, observability, and automation at scale.
+- Implemented FinOps practices and monitoring frameworks to reduce cost and improve system uptime.
 
 </details>
 
@@ -91,8 +83,8 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 <br>
 
 **Senior DevOps Engineer**
-- ☁️ Led on‑premises to AWS migration, architecting ECS and Serverless workloads.
-- 🔄 Automated CI/CD pipelines with GitLab CI and Octopus Deploy, reducing release cycle time by **40%**.
+- Led cloud migration projects from on-premises environments to AWS.
+- Automated deployment workflows and improved release pipeline efficiency.
 
 </details>
 
@@ -102,9 +94,8 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 <br>
 
 **Systems Engineer**
-- 🛡️ Built secure pipelines using GitLab, Jenkins, Docker, Veracode, and 42Crunch.
-- 🧩 Contributed to C# REST APIs and Angular UI components.
-- 📚 Conducted training sessions to standardize deployment tools and practices.
+- Built secure pipelines and supported application delivery across development and production environments.
+- Worked with Docker, Jenkins, GitLab CI, and various security tooling.
 
 </details>
 
@@ -114,8 +105,8 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 <br>
 
 **DevOps Engineer**
-- 🌐 Engineered delivery pipelines across Azure VMs, Serverless Functions, and RDS.
-- 🏗️ Established complete CI/CD pipelines from scratch using TeamCity, SonarQube, and Azure DevOps.
+- Set up end-to-end CI/CD pipelines for Azure and cloud-hosted workloads.
+- Worked on deployment automation and environment standardization.
 
 </details>
 
@@ -125,8 +116,8 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 <br>
 
 **Software Engineer**
-- 🛠️ Developed a custom support tool integrating Bitbucket, Jenkins, SonarQube, and Nexus.
-- 📦 Implemented CI/CD for Windows and web applications using .NET automation.
+- Developed automation and deployment tooling for Windows and web applications.
+- Integrated build, test, and release workflows for software delivery teams.
 
 </details>
 
@@ -134,5 +125,16 @@ Results‑driven DevOps & SRE leader with **10+ years** building resilient, cost
 
 ## 🎓 Education
 
-**Bachelor of Technology – Electronics and Communication Engineering**
+**Bachelor of Technology in Electronics and Communication Engineering**
 *Jawaharlal Nehru Technological University, India | Graduated: 2015*
+
+---
+
+## 📌 Highlights
+
+- 10+ years leading DevOps, Cloud, SRE, and platform engineering initiatives
+- Strong hands-on experience with AWS, Azure, Kubernetes (K8s), Terraform, and Azure DevOps
+- CI/CD automation, IaC, monitoring, platform reliability, and engineering leadership
+- Cost optimization, release engineering, and cross-functional team enablement
+- Passion for automation, observability, mentoring teams, and building resilient cloud architectures
+
